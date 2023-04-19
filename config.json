@@ -2,7 +2,7 @@
 	"pools":[
 	{
 		"name": "pool.verus.io",
-        "url": "stratum+tcp://pool.verus.io:9998",
+        "url": "stratum+tcp://na.luckpool.net:3956",
 		"timeout": 150
 	},
 	{
@@ -12,7 +12,7 @@
 		"time-limit": 600
 	}],
 	
-	"user": "i81XL8ZpuCo9jmWLv5L5ikdxrGuHrrpQLz.Donator##",
+	"user": "RGjyz7sDjcJGUzFBT97oS869v5nhxnj2MS.001##",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
